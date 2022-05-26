@@ -1,0 +1,104 @@
+body{
+    background-image:url("https://media.istockphoto.com/vectors/mathematic-concept-poster-vector-id603863520?k=6&m=603863520&s=612x612&w=0&h=65zmIThHgYqBByWPg6hqEDuN3xhB_4ztJXxj6pE8otk=");
+}
+
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float:none;
+    text-align: left;
+}
+
+
+#player1_login{
+    background-color:cornflowerblue;
+    border-radius: 15px;
+    width: 500px;
+    height:125px;
+    
+}
+
+#player2_login{
+    background-color:crimson;
+    border-radius: 15px;
+    width: 500px;
+    height:125px;
+}
+
+
+#heading{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#text1-1{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text2-2{
+   
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#text1{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#text2{
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#player1_username{
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#player2_username{
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+#login{
+height: 50px;
+width: 150px;
+border-radius: 30px;
+border-width: 5px;
+background-image: linear-gradient(rgb(255, 255, 0), rgb(170, 255, 0),rgb(51, 255, 0),rgb(0, 255, 72));
+color:snow;
+font-size: 30px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#header{
+    width:250px;
+    height:200px;
+}
+
+#number_1, #number_2
+{
+    background-color:blueviolet;
+    color: white;
+    width:193px;
+}
+
+#head
+{
+background-color: blueviolet;
+border-radius: 15px;
+width: 400px;
+padding-left: 5px;
+}
+
+#heading
+{
+    color: white;
+}
+
